@@ -1,0 +1,7 @@
+.modal-container {
+  position: relative;
+  height: 100vh;
+}
+.modal-container .modal, .modal-container .modal-backdrop {
+  position: absolute;
+}
